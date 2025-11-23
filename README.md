@@ -265,10 +265,10 @@ This is a capstone project, but suggestions for improvement are welcome! Feel fr
 ---
 
 ## Author
-**[Your Name]**  
+**Vishad Dubey**  
 Cybersecurity Capstone Project  
-[Your Institution Name]  
-[Date]
+VIT Bhopal University 
+23/11/2025
 
 ---
 
@@ -286,8 +286,8 @@ This project is created for educational purposes as part of a cybersecurity caps
 
 ## Contact
 For questions or feedback about this project:
-- Email: [your.email@example.com]
-- GitHub: [your-github-username]
+- Email: vishaddubey892@gmail.com
+- GitHub: v1shad
 
 ---
 
@@ -298,4 +298,4 @@ This tool is designed for educational purposes and basic threat detection. It sh
 
 ---
 
-*Last Updated: [Current Date]*
+*Last Updated: 23/11/2025
